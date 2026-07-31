@@ -4,7 +4,8 @@ Excel-based sales analysis of a cafe covering **60 transactions** with an intera
 
 ## 📊 Dashboard
 
-![Cafe Sales Dashboard](https://github.com/Prince8515/YOUR-REPO-NAME/blob/main/CAFE_SALES_data_analysis.png?raw=true)
+<img width="1297" height="503" alt="CAFE_SALES data analysis" src="https://github.com/user-attachments/assets/3aee3d0e-4b4d-4f7c-bfb4-8cdb3d0f07d1" />
+
 
 ## 📈 KPI Summary
 
@@ -30,7 +31,7 @@ Microsoft Excel — Data Cleaning · Pivot Tables · Charts · KPIs · Dashboard
 
 ## 📂 File
 
-📥 [Download Excel File](https://github.com/Prince8515/YOUR-REPO-NAME/blob/main/cafe_sales.csv)
+📥 [Download Excel File]([https://github.com/Prince8515/YOUR-REPO-NAME/blob/main/cafe_sales.csv](https://github.com/Prince8515/Cafe_Sale_Dashboard_Excel/blob/main/cafe_sales.xlsx))
 
 ## 👤 Author
 
